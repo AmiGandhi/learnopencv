@@ -1,0 +1,25 @@
+*.caffemodel
+images
+.DS_Store
+out
+log.log
+*.pyc
+*.vsix
+**/.vscode
+.vscode-test
+__pycache__
+npm-debug.log
+**/.mypy_cache/**
+**/.vscode-test/**
+**/.vscode test/**
+**/.vscode-smoke/**
+**/.venv*/
+debug_coverage*/**
+languageServer/**
+languageServer.*/**
+bin/**
+obj/**
+.pytest_cache
+tmp/**
+.python-version
+.vs/
